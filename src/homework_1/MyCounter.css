@@ -1,0 +1,23 @@
+.MyCounter {
+    display: inline-block;
+    min-width: 200px;
+    border: 2px solid black;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px gray;
+    padding: 5px;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+
+.MyCounter__value {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.MyCounter__btn {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin: 0 3px;
+    cursor: pointer;
+}
