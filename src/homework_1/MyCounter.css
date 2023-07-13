@@ -1,12 +1,13 @@
 .MyCounter {
     display: inline-block;
-    min-width: 200px;
+    min-width: 220px;
     border: 2px solid black;
     border-radius: 3px;
     box-shadow: 2px 2px 5px gray;
     padding: 5px;
     margin: 10px;
     background-color: cornflowerblue;
+    text-align: center;
 }
 
 .MyCounter__value {
